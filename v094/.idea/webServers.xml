@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c1417400-bbcf-4dae-95ec-eb17b5b8d629" name="crm" url="http://119.28.78.217">
+        <fileTransfer host="119.28.78.217" port="22" rootFolder="/var/www" accessType="SFTP" password="dffadfdfdff8dfcfdfe6dfd3df98df9adf9bdf99" username="ubuntu">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
